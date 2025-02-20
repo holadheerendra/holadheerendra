@@ -11,7 +11,7 @@
 
 <h2 align="center">💼 Experience</h2>
 
-### 🏢 **MERN STACK DEVELOPER**  
+### 🏢 **SOFTWARE ENGINEER**  
 
 HOLA9 CLASSIFIEDS INDIA PRIVATE LIMITED (February 2025 - Present)
 
